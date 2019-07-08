@@ -1,2 +1,6 @@
-# lingyun
-vuesea的打卡之路,加入jiliang小分队.
+# 孙清海的前端路线
+
+vuesea的打卡之路,加入jiliang小分队.点点滴滴,形形色色加油
+
+#### 
+
