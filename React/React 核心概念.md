@@ -193,3 +193,11 @@ const element = <h1>Hello, world</h1>
 
    +  [Formik](https://jaredpalmer.com/formik)
 
+------
+
+### 十.状态提升
+
+*通常，多个组件需要反映相同的变化数据，这时我们建议将共享状态提升到最近的共同父组件中去。*
+
+1.添加第二个输入框
+
